@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1070,
-    "timeWeek": 1070,
-    "timeMonth": 1070,
-    "timeYear": 1070,
+    "time": 1067,
+    "timeDay": 1067,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1075,
-    "timeWeek": 1075,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "time": 1056,
+    "timeDay": 1056,
+    "timeWeek": 1056,
+    "timeMonth": 1056,
+    "timeYear": 1056,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Production Assistant Atlas",
+    "url": "https://ai.atlasindustries.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/ai.atlasindustries.com.ico",
+    "slug": "production-assistant-atlas",
+    "status": "down",
+    "uptime": "42.31%",
+    "uptimeDay": "42.31%",
+    "uptimeWeek": "42.31%",
+    "uptimeMonth": "42.31%",
+    "uptimeYear": "42.31%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   }
 ]
