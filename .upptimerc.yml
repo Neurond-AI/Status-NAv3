@@ -14,7 +14,6 @@ status-website:
   cname: status.neurond.com
   # baseUrl: /your-repo-name
   # logoUrl: "/favicon.ico"
-  favicon: /favicon.ico
   name: Status Neurond Assistant
   introTitle: "This is the status page for the Neurond Assistant"
   introMessage: This is a status page which uses **real-time** data from our system to monitor the availability of the Neurond Assistant.
