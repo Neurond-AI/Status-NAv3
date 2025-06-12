@@ -7,6 +7,8 @@ sites:
     url: https://staging-assistant.neurond.com/
   - name: Production Assistant Neurond AI
     url: https://assistant.neurond.com/
+  - name: Production Assistant Atlas
+    url: https://ai.atlasindustries.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
