@@ -1,7 +1,7 @@
 url: https://staging-assistant.neurond.com/
-status: down
-code: 503
-responseTime: 910
-lastUpdated: 2025-10-21T18:15:22.442Z
+status: up
+code: 200
+responseTime: 3921
+lastUpdated: 2025-10-21T18:58:05.755Z
 startTime: 2025-06-12T05:22:41.286Z
 generator: Upptime <https://github.com/upptime/upptime>
