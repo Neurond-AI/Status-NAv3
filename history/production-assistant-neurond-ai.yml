@@ -1,7 +1,7 @@
 url: https://assistant.neurond.com/
-status: down
-code: 503
-responseTime: 959
-lastUpdated: 2026-02-23T09:03:27.593Z
+status: up
+code: 200
+responseTime: 2208
+lastUpdated: 2026-02-23T10:08:33.531Z
 startTime: 2025-06-12T05:22:42.619Z
 generator: Upptime <https://github.com/upptime/upptime>
